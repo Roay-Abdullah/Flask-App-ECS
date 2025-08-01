@@ -116,5 +116,3 @@ docker run -e FLASK_ENV=production -p 80:80 flask-app
 Feel free to update the "Technologies Used" and "Folder Structure" sections with more details specific to your project as it grows. You can also enhance the README by adding any other useful information like troubleshooting tips or contribution guidelines!
 
 ---
-
-This updated version makes it clear that you've utilized **multi-stage builds** in your Dockerfile, which is a smart choice for optimizing Docker images. Let me know if you'd like to refine or add anything else!
