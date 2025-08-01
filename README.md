@@ -29,8 +29,8 @@ If you're running the app locally for development, also make sure you have `pip`
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Roay-Abdullah/Flask-App-ECS.git
-cd Flask-App-ECS
+git clone https://github.com/Roay-Abdullah/Flask-Web-App-Docker-ECS.git
+cd Flask-Web-App-Docker-ECS
 ```
 
 ### Install Dependencies
